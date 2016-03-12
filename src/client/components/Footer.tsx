@@ -3,7 +3,7 @@ export default class Footer extends React.Component<any, any> {
     render() {
         return (
             <footer className="footer">
-                Footer
+                Just a footer
             </footer>
         );
     }
