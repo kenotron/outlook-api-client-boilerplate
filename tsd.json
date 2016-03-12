@@ -1,0 +1,42 @@
+{
+  "version": "v4",
+  "repo": "borisyankov/DefinitelyTyped",
+  "ref": "master",
+  "path": "typings",
+  "bundle": "typings/tsd.d.ts",
+  "installed": {
+    "react/react-dom.d.ts": {
+      "commit": "dade4414712ce84e3c63393f1aae407e9e7e6af7"
+    },
+    "react/react.d.ts": {
+      "commit": "0d622d857f97d44ea7dcad2b3edec1f23c48fe9e"
+    },
+    "jasmine/jasmine.d.ts": {
+      "commit": "9f0f926a12026287b5a4a229e5672c01e7549313"
+    },
+    "express/express.d.ts": {
+      "commit": "0d622d857f97d44ea7dcad2b3edec1f23c48fe9e"
+    },
+    "serve-static/serve-static.d.ts": {
+      "commit": "0d622d857f97d44ea7dcad2b3edec1f23c48fe9e"
+    },
+    "node/node.d.ts": {
+      "commit": "0d622d857f97d44ea7dcad2b3edec1f23c48fe9e"
+    },
+    "mime/mime.d.ts": {
+      "commit": "0d622d857f97d44ea7dcad2b3edec1f23c48fe9e"
+    },
+    "react-router/react-router.d.ts": {
+      "commit": "0d622d857f97d44ea7dcad2b3edec1f23c48fe9e"
+    },
+    "react-router/history.d.ts": {
+      "commit": "0d622d857f97d44ea7dcad2b3edec1f23c48fe9e"
+    },
+    "whatwg-fetch/whatwg-fetch.d.ts": {
+      "commit": "0d622d857f97d44ea7dcad2b3edec1f23c48fe9e"
+    },
+    "es6-promise/es6-promise.d.ts": {
+      "commit": "0d622d857f97d44ea7dcad2b3edec1f23c48fe9e"
+    }
+  }
+}

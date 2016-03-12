@@ -1,0 +1,16 @@
+{
+    "compilerOptions": {
+        "jsx": "react",
+        "target": "es5",
+        "module": "commonjs",
+        "moduleResolution": "node",
+        "sourceMap": true,
+        "experimentalDecorators": true,
+        "outDir": "dist"
+    },
+    "compileOnSave": false,
+    "exclude": [
+        "node_modules",
+        "dist"
+    ]
+}
