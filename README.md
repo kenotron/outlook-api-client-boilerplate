@@ -26,9 +26,10 @@ npm i
   4. Add Platform -> Web -> paste this in for the text field: ```http://localhost:3000/authorize```
   5. Hit Save Button
   6. Then, make sure that you DON'T ever check in the config.ts by typing this:
-    ```
-    git update-index --assume-unchanged src/server/config.ts
-    ```
+    
+```
+git update-index --assume-unchanged src/server/config.ts
+```
 
 ## 3. Run the dev server with a npm start script:
 ```
