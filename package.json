@@ -9,7 +9,7 @@
     "start": "node node_modules/gulp/bin/gulp.js"
   },
   "author": "Ken Chau <kchau@microsoft.com>",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
     "express": "^4.13.4",
     "mobx": "^2.0.0",
