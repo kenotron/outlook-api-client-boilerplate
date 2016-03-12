@@ -15,7 +15,7 @@ And requires you to register an application to access the Outlook REST API.
 # Getting Started
 ## 1. Clone this repository and run npm install:
 ```
-git clone https://github.com/kenotron/functional-reactive-flux.git
+git clone https://github.com/kenotron/outlook-api-client-boilerplate.git
 npm i
 ```
 
