@@ -35,4 +35,4 @@ git update-index --assume-unchanged src/server/config.ts
 ```
 npm start
 ```
-Now, simply open your browser to http://localhost:3000
+Now, simply open your browser to [http://localhost:3000]
