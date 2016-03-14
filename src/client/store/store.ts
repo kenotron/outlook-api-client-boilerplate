@@ -4,7 +4,7 @@ import {StateTree} from './schema';
 
 var Store = new ReactiveStore<StateTree>();
 
-extendObservable(AppStore.getState(), {
+extendObservable(Store.getState(), {
     items: [],
     authUrl: null
 });

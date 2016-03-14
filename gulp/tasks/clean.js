@@ -1,10 +1,10 @@
 //******************************************************************************
 //* CLEAN
 //******************************************************************************
-var gulp    = require("gulp")  ,
+var gulp    = require("gulp"),
     options = require('../options'),
-    del     = require('del');
+    rimraf  = require('rimraf');
 
 gulp.task('clean', function(done) {
-	del([options.output], done);
+	rimraf(options.output, done);
 });
