@@ -1,4 +1,6 @@
 # outlook-api-client-boilerplate
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/kenotron/outlook-api-client-boilerplate.svg)](https://greenkeeper.io/)
 A Client & Server boilerplate for a React app that uses the Outlook API.
 
 This boilerplate brings in:
