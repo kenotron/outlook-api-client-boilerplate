@@ -36,7 +36,7 @@
     "livereload": "^0.6.2",
     "livereload-js": "^2.2.2",
     "require-dir": "^0.3.0",
-    "rimraf": "^2.5.2",
+    "rimraf": "^2.6.2",
     "run-sequence": "^2.0.0",
     "style-loader": "^0.18.2",
     "ts-helper": "0.0.1",
