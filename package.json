@@ -24,7 +24,7 @@
   },
   "devDependencies": {
     "connect-livereload": "^0.6.0",
-    "copy-webpack-plugin": "^4.0.1",
+    "copy-webpack-plugin": "^4.2.2",
     "css-loader": "^0.28.4",
     "gulp": "^3.9.1",
     "gulp-livereload": "^3.8.1",
