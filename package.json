@@ -34,7 +34,7 @@
     "jasmine": "^2.4.1",
     "jasmine-spec-reporter": "^4.1.1",
     "livereload": "^0.6.2",
-    "livereload-js": "^2.2.2",
+    "livereload-js": "^2.3.0",
     "require-dir": "^0.3.0",
     "rimraf": "^2.5.2",
     "run-sequence": "^2.0.0",
