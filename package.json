@@ -31,7 +31,7 @@
     "gulp-sourcemaps": "^2.6.0",
     "gulp-typescript": "^3.2.1",
     "gulp-util": "^3.0.7",
-    "jasmine": "^2.4.1",
+    "jasmine": "^2.99.0",
     "jasmine-spec-reporter": "^4.1.1",
     "livereload": "^0.6.2",
     "livereload-js": "^2.2.2",
