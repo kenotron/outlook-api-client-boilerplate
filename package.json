@@ -26,7 +26,7 @@
     "connect-livereload": "^0.6.0",
     "copy-webpack-plugin": "^4.0.1",
     "css-loader": "^0.28.4",
-    "gulp": "^3.9.1",
+    "gulp": "^4.0.0",
     "gulp-livereload": "^3.8.1",
     "gulp-sourcemaps": "^2.6.0",
     "gulp-typescript": "^3.2.1",
