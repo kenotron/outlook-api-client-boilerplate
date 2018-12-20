@@ -23,7 +23,7 @@
     "whatwg-fetch": "^2.0.3"
   },
   "devDependencies": {
-    "connect-livereload": "^0.6.0",
+    "connect-livereload": "^0.6.1",
     "copy-webpack-plugin": "^4.0.1",
     "css-loader": "^0.28.4",
     "gulp": "^3.9.1",
